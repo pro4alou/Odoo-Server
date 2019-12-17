@@ -9,3 +9,6 @@ http://learnopenerp.blogspot.com/2019/10/configure-pycharm-with-odoo.html
 
 Très bonne documenation Odoo
 https://people.via.ecp.fr/~alexis/openerp/
+
+En vue de plusieurs ERP Open Source
+http://www.open-source-guide.com/Solutions/Applications/E-commerce
