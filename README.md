@@ -12,3 +12,6 @@ https://people.via.ecp.fr/~alexis/openerp/
 
 En vue de plusieurs ERP Open Source
 http://www.open-source-guide.com/Solutions/Applications/E-commerce
+
+resolution installation odoo server
+http://findnerd.com/list/view/How-to-install-OpenERP-Odoo-in-windows-server-2012-R2-/3666/
