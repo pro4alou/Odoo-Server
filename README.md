@@ -15,3 +15,6 @@ http://www.open-source-guide.com/Solutions/Applications/E-commerce
 
 resolution installation odoo server
 http://findnerd.com/list/view/How-to-install-OpenERP-Odoo-in-windows-server-2012-R2-/3666/
+
+Partie de développement site web
+https://www.odoo.com/documentation/12.0/howtos/web.html#existing-web-components
