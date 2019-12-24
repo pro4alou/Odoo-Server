@@ -18,3 +18,6 @@ http://findnerd.com/list/view/How-to-install-OpenERP-Odoo-in-windows-server-2012
 
 Partie de développement site web
 https://www.odoo.com/documentation/12.0/howtos/web.html#existing-web-components
+
+Configuration réseau local du serveur
+https://www.it-connect.fr/activer-le-wi-fi-sur-windows-server-2012-r2/
